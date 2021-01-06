@@ -1,0 +1,23 @@
+
+.social img{
+	max-width: 40%;
+
+	
+}
+
+.icons{
+	display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+	
+	text-align: right;
+}
+
+.item{
+	margin-top: - 20px;
+	width: 80px;
+	padding-bottom: 10px;
+}

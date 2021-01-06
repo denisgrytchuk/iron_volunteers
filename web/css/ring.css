@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td {
+    padding: 6px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.block{
+    position: absolute;
+}
+
+.red{
+	background-color: #FF6347;
+}
